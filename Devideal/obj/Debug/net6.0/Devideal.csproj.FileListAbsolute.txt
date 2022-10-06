@@ -1,0 +1,15 @@
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\bin\Debug\net6.0\Devideal.exe
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\bin\Debug\net6.0\Devideal.deps.json
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\bin\Debug\net6.0\Devideal.runtimeconfig.json
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\bin\Debug\net6.0\Devideal.dll
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\bin\Debug\net6.0\Devideal.pdb
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\Devideal.csproj.AssemblyReference.cache
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\Devideal.GeneratedMSBuildEditorConfig.editorconfig
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\Devideal.AssemblyInfoInputs.cache
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\Devideal.AssemblyInfo.cs
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\Devideal.csproj.CoreCompileInputs.cache
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\Devideal.dll
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\refint\Devideal.dll
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\Devideal.pdb
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\Devideal.genruntimeconfig.cache
+X:\OsobisteCudaNaKiju\RecruitmentTasks\Devideal\Devideal\Devideal\obj\Debug\net6.0\ref\Devideal.dll
